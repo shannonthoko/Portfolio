@@ -1,0 +1,51 @@
+
+nav {
+
+    background-color:	#8FBC8F !important;
+    
+  
+  }
+  
+  #nav-mobile a{
+  
+    /*this selector works*/
+  
+  }
+  
+  .container  {
+    display: flex;
+    position: absolute;
+    height: 100%;
+    width: 100%;
+    left: 200px;
+  }
+  
+  .container .row {
+    margin: 0 auto;
+  }
+  .card {
+  
+    width: 500px;
+    height: 400px;
+    position:absolute;
+    
+  }
+  
+  
+  .card-content {
+  
+    text-align: center;
+  }
+  
+  .card-action{
+  
+    text-align: center;
+  }
+  
+  
+  
+  header, p{
+  
+    font-weight: bold ;
+  }
+  
